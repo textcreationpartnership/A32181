@@ -1,0 +1,1239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace, commerce, &amp; alliance, between the crowns of Great Britain and Spain concluded in a treaty at Madrid the 13/23 day of May, in the year of our Lord God, 1667 / translated out of Latin.</title>
+            <title>Treaties, etc. Spain, 1667 May 23</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32181</idno>
+            <idno type="STC">Wing C2911</idno>
+            <idno type="STC">ESTC R8549</idno>
+            <idno type="EEBO-CITATION">12924396</idno>
+            <idno type="OCLC">ocm 12924396</idno>
+            <idno type="VID">95447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 732:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace, commerce, &amp; alliance, between the crowns of Great Britain and Spain concluded in a treaty at Madrid the 13/23 day of May, in the year of our Lord God, 1667 / translated out of Latin.</title>
+                  <title>Treaties, etc. Spain, 1667 May 23</title>
+                  <author>England and Wales.</author>
+                  <author>Philip IV, King of Spain, 1605-1665.</author>
+                  <author>Spain. Treaties, etc. England and Wales, 1667 May 23.</author>
+               </titleStmt>
+               <extent>47 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added t.p. on p. [33]: The copy of a patent, containing several gracious priviledges lately granted by the High and Mighty Philip the Fourth, King of Spain, &amp;c.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Spain --  Sources.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:95447:1"/>
+                  <pb facs="tcp:95447:1"/>
+                  <p>ARTICLES OF Peace, Commerce, &amp; Alliance, Between the CROWNS
+OF Great Britain AND SPAIN. CONCLUDED In a Treaty at MADRID the 13/23. day of
+<hi>May,</hi> in the Year of our LORD GOD, 1667.</p>
+                  <p>Tranſlated out of Latin.</p>
+                  <p>
+                     <hi>Publiſhed by His Majeſties Command.</hi>
+                  </p>
+                  <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John
+Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt
+Excellent Majeſty. 1667.</p>
+               </div>
+            </front>
+            <body>
+               <head>
+                  <pb facs="tcp:95447:2"/>
+                  <pb n="3" facs="tcp:95447:2"/>
+                  <hi>Articles of Peace, Commerce, and Al<g ref="char:EOLhyphen"/>liance,
+between the Crowns of</hi> Great Britain <hi>and</hi> Spain.</head>
+               <div n="1" type="part">
+                  <head>I.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">F</seg>Irſt, It is Agreed and Concluded,</hi> That from this day
+forward there ſhall be be<g ref="char:EOLhyphen"/>tween the two Crowns of <hi>Great Britain</hi> and
+<hi>Spain,</hi> a General, Good, Sincere, True, Firm and Perfect Amity,
+Confe<g ref="char:EOLhyphen"/>deration and Peace, which ſhall endure for ever, and be obſerved
+inviolably, as well by Land, as by Sea and Freſh-waters; and alſo between
+the Lands, Countries, Kingdoms, Dominions and Territories, belonging un<g ref="char:EOLhyphen"/>to, or
+under the obedience of either of them; And that their Subjects, People, and
+Inhabitants reſpective<g ref="char:EOLhyphen"/>ly, of what condition, degree or quality ſoever,
+from
+<pb n="4" facs="tcp:95447:3"/>henceforth reciprocally, ſhall help,
+aſſiſt, and ſhew to one another all manner of Love, good Offices, and
+Friendſhip.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>That neither of the ſaid Kings, nor their reſpective People,
+Subjects or Inhabitants within their Domi<g ref="char:EOLhyphen"/>nions, upon any pretence, may in
+publick or ſecret, do, or procure to be done, any thing againſt the other,
+in any Place, by Sea or by Land, nor in the Ports or Rivers of the one or the
+other, but ſhall treat one an<g ref="char:EOLhyphen"/>other with all Love and Friendſhip; and may
+by Wa<g ref="char:EOLhyphen"/>ter and by Land, freely and ſecurely paſs into the Con<g ref="char:EOLhyphen"/>fines,
+Countries, Lands, Kingdoms, Iſlands, Domi<g ref="char:EOLhyphen"/>nions, Cities, Towns, Villages,
+wall'd or without wall, fortified or unfortified, their Havens and Ports (where
+hitherto Trade and Commerce hath been ac<g ref="char:EOLhyphen"/>cuſtomed) and there trade, buy and
+ſell, as well of and to the Inhabitants of the reſpective Places, as
+thoſe of their own Nation, or any other Nation that ſhall be or come
+there.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>III.</head>
+                  <p>That the ſaid Kings of <hi>Great Britain</hi> and
+<hi>Spain,</hi> ſhall take care that their reſpective People and Subjects
+from henceforward do abſtain from all Force, Vio<g ref="char:EOLhyphen"/>lence or Wrong; and if any
+injury ſhall be done by either of the ſaid Kings, or by the People or
+Subjects of either of them, to the People or Subjects of the other, againſt
+the Articles of this Alliance, or againſt
+<pb n="5" facs="tcp:95447:3"/>common Right, there ſhall not therefore be
+given Letters of Repriſal, Matque, or Counter-marque by any of the
+Confederates, until ſuch time as juſtice is ſought and followed in the
+ordinary courſe of Law: But if juſtice be denied or delayed, then the King
+whoſe People or Inhabitants have received harm, ſhall ask it of the other,
+by whom (as is ſaid) the juſtice ſhall have been denied or delayed, or of
+the Commiſſio<g ref="char:EOLhyphen"/>ners that ſhall be by the one King or the other appoint<g ref="char:EOLhyphen"/>ed
+to receive and hear ſuch Demands, to the end that all ſuch differences may
+be compounded in friendſhip, or according to Law. But if there ſhould yet
+be a delay or juſtice ſhould not be done, nor ſatisfaction gi<g ref="char:EOLhyphen"/>ven within
+ſix months after having the ſame ſo deman<g ref="char:EOLhyphen"/>ded, then may be given Letters
+of Repriſal, Marque or Counter-marque.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>IV.</head>
+                  <p>That between the King of <hi>Great Britain,</hi> and the King of
+<hi>Spain,</hi> and their reſpective People, Subjects and Inhabitants, as
+well upon Sea as upon Land and Freſh-water, in all and every their Kingdoms,
+Lands, Countries, Dominions, Confines, Territories, Pro<g ref="char:EOLhyphen"/>vinces, Iſlands,
+Plantations, Cities, Villages, Towns, Ports, Rivers, Creeks, Bayes, Streights
+and Currents, where hitherto Trade and Commerce hath been accu<g ref="char:EOLhyphen"/>ſtomed, there
+ſhall be free Trade and Commerce, in ſuch way and manner, that without
+ſafe Conduct, and without general or particular Licence, the People and
+Subjects of each other may freely, as well by Land as by Sea and Freſh-water,
+Navigate and go into their
+<pb n="6" facs="tcp:95447:4"/>ſaid Countries, Kingdoms, Dominions, and all
+the Cities, Ports, Currents, Bayes, Diſtricts, and other places thereof, and
+may enter into any P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt with their Ships laden or empty, Carriage or Carriages
+wherein to bring their Merchandiſe, and there buy and ſell what and how
+much they pleaſe, and alſo at juſt and reaſon<g ref="char:EOLhyphen"/>able rates provide
+themſelves with proviſions and other neceſſary things for their
+ſubſiſtence and voyage; and alſo may repair their Ships and carriages,
+and from thence again freely depart with their Ships, Carriages, Goods,
+Merchandiſe and Eſtate, and return to their own Countries, or to ſuch
+other Place as they ſhall think fit, without any Moleſtation or Impediment,
+ſo that they pay the Duties and Cuſtoms which ſhall be due, and ſaving
+to either ſide the Laws and Ordinan<g ref="char:EOLhyphen"/>ces of their Country.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>V.</head>
+                  <p>Item, It is likewiſe agreed, That for the Merchan<g ref="char:EOLhyphen"/>diſes which
+the Subjects of the King of <hi>Great Britain</hi> ſhall buy in
+<hi>Spain,</hi> or other the Kingdoms or Domi<g ref="char:EOLhyphen"/>nions of the King of
+<hi>Spain,</hi> and ſhall carry in their own Ships, or in Ships hired or lent
+unto them, no new Cuſtoms, Toll, Tenths, Subſidies, or other Rights or
+Duties whatſoever ſhall be taken or encreaſed, other then thoſe which
+in the like caſe the Natives them<g ref="char:EOLhyphen"/>ſelves, and all other ſtrangers are
+obliged to pay; and the Subjects aforeſaid buying, ſelling and contracting
+for their Merchandiſes, as well in reſpect of the Prices, as of all Duties
+to be paid, ſhall enjoy the ſame pri<g ref="char:EOLhyphen"/>viledges which are allowed to the
+natural Subjects of
+<pb n="7" facs="tcp:95447:4"/>
+                     <hi>Spain;</hi> and may buy, and lade their Ships
+with ſuch Goods and Merchan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; which ſaid Ships be<g ref="char:EOLhyphen"/>ing laden, and
+Cuſtoms paid for the Goods, ſhall not be detained in Port upon any pretence
+whatſoever; nor ſhall the Laders, Merchants, or Factors who bought and
+loaded the Goods aforeſaid be queſtioned after the departure of the ſaid
+Ships, for any matter or thing whatſoever concerning the ſame.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>VI.</head>
+                  <p>And to the end that the Officers and Miniſters of all Cities,
+Towns and Villages belonging to either, may neither demand nor take from the
+reſpective Merchants and People, greater Taxes, Duties, Sti<g ref="char:EOLhyphen"/>pends,
+Recompences, Gifts, or any other charges, then what ought to be taken by vertue
+of this Treaty; and that the ſaid Merchants and People may know and
+underſtand with certainty what is ordained in all things touching this; It is
+agreed and concluded, That Ta<g ref="char:EOLhyphen"/>bles and Liſts ſhall be put up at the Doors
+of the Cu<g ref="char:EOLhyphen"/>ſtom-houſes and Regiſtries of all the Cities, Villages and
+Towns of, or appertaining to one or the other King where ſuch Rights and
+Exciſes or Cuſtoms are uſually paid; in which, how much, and of what
+quality ſuch Rights, Cuſtoms, Subſidies and Payments, either to the Kings
+or any the aforeſaid Officers are allowed, ſhall be put down in writing,
+declaring aſwell the ſpe<g ref="char:EOLhyphen"/>cies of what is imported, as what is carried out.
+And if any Officer, or any other in his name upon any pre<g ref="char:EOLhyphen"/>tence whatſoever,
+in publick or ſecret, directly or in<g ref="char:EOLhyphen"/>directly, ſhall ask or receive of any
+Merchant or other
+<pb n="8" facs="tcp:95447:5"/>perſon reſpectively; any ſum of money or
+other thing, by the name of Right, Due, Stipend, Allowance, or Recompence
+(though it be by the way of voluntary Donative) more or otherwiſe then
+aforeſaid, the ſaid Officer or his Deputy being in ſuch manner guilty and
+convict before a competent Judge in the Country where the Crime is committed,
+ſhall be put in Priſon for three months, and ſhall pay thrice the value
+of the thing ſo received; of which the half ſhall be for the King of the
+Country where the Crime is committed, and the other half for the Denunciator,
+for the which he may ſue his Right before any competent Judge of the Country
+where it ſhall happen.</p>
+               </div>
+               <div n="7" type="part">
+                  <head>VII.</head>
+                  <p>That it ſhall be lawful for the Subjects of the King of
+<hi>Great Britain,</hi> to bring out, and carry into <hi>Spain,</hi> and all or
+any Lands and Dominions of the King of <hi>Spain</hi> (where heretofore they
+have uſed Trade and Commerce) and trade there with all kind of
+Mer<g ref="char:EOLhyphen"/>chandiſe, Cloaths, Manufactures, and things of the Kingdom of <hi>Great
+Britain,</hi> and the Manufactures, Goods, Fruits, and kinds of the Iſlands,
+Towns and Plantations to him appertaining, and what ſhall have been bought by
+Engliſh Factors on this ſide, or farther on the other ſide of the Cape of
+<hi>Buena Eſperanca,</hi> without being inforced to declare to whom, or for
+what price they ſell their ſaid Merchandiſe and Pro<g ref="char:EOLhyphen"/>viſions, or being
+moleſted for the errors of the Ma<g ref="char:EOLhyphen"/>ſters of the Ships, or others, in the
+entry of the Goods; and at their pleaſure to return again out of the
+Domi<g ref="char:EOLhyphen"/>nions
+<pb n="9" facs="tcp:95447:5"/>of the King of <hi>Spain,</hi> with all, or any
+Goods, Eſtates and Merchandiſe, to any of the Territories, Iſlands,
+Dominions and Countries of the King of <hi>England,</hi> or to any other Place,
+paying the Rights and Tributes mentioned in the antecedent Chapters; and the
+reſt of all their lading which is not brought to Land, they may detain, keep
+and carry away in their ſaid Ship or Ships, Veſſel or Veſſels again,
+without paying any Right or Impoſition whatſoever for it, as if therewith
+they had never been within any Bay or Port of the Catholique King. And all the
+Goods, Eſtates, Merchandiſe, Ships or other Veſſels, with any things
+introduced into the Dominions or Places of the Crown of <hi>Great Britain</hi>
+as Prizes, and judged for ſuch in the ſaid Dominions and Places, ſhall be
+taken for Goods and Merchandiſe of <hi>Great Britain,</hi> comprehen<g ref="char:EOLhyphen"/>ded ſo
+by the intention of this Article.</p>
+               </div>
+               <div n="8" type="part">
+                  <head>VIII.</head>
+                  <p>That the Subjects and Vaſſals of the Moſt Serene King of
+<hi>Great Britain</hi> may bring and carry to all and ſingular the Dominions
+of the King of <hi>Spain,</hi> any Fruits and Commodities of the
+<hi>Eaſt-Indies,</hi> it appear<g ref="char:EOLhyphen"/>ing by teſtimony of the Deputies of the
+<hi>Eaſt-Indy</hi> Company in <hi>London,</hi> that they are of, or have come
+from the <hi>Engliſh</hi> Conqueſts, Plantations or Factories, with like
+priviledge, and according to what is allowed to the Subjects of the United
+Provinces, by the Royal <hi>Cedulas</hi> of <hi>Contravando</hi> bearing date
+the 27. of <hi>June,</hi> and the 3. of <hi>July</hi> 1663. and publiſhed on
+the 30. of <hi>June,</hi> and 4. of <hi>July</hi> the ſame year. And for what
+may
+<pb n="10" facs="tcp:95447:6"/>concern both the <hi>Indies,</hi> and any other
+Parts whatſo<g ref="char:EOLhyphen"/>ever, the Crown of <hi>Spain</hi> doth grant to the King of
+<hi>Great Britain</hi> and his Subjects, all that is granted to the United
+States of the Low-Countreys and their Subjects, in their Treaty of
+<hi>Munſter</hi> 1648. Point for Point, in as full and ample manner as if the
+ſame were herein particularly inſerted, the ſame Rules being to be
+obſerved whereunto the Subjects of the ſaid Uni<g ref="char:EOLhyphen"/>ted States are obliged, and
+mutual Offices of Friend<g ref="char:EOLhyphen"/>ſhip to be performed from one ſide to the
+other.</p>
+               </div>
+               <div n="9" type="part">
+                  <head>IX.</head>
+                  <p>That the Subjects of the King of <hi>Great Britain,</hi> tra<g ref="char:EOLhyphen"/>ding,
+buying and ſelling in any of the Kingdoms, Go<g ref="char:EOLhyphen"/>vernments, Iſlands, Ports or
+Territories of the ſaid King of <hi>Spain,</hi> ſhall have, uſe, and
+enjoy all the Pri<g ref="char:EOLhyphen"/>viledges and Immunities, which the ſaid King hath granted
+and confirmed to the <hi>Engliſh</hi> Merchants that reſide in
+<hi>Andaluzia,</hi> by his Royal <hi>Cedulas</hi> or Orders, dated the 19. day
+of <hi>March,</hi> the 26. day of <hi>June,</hi> and the 9. day of
+<hi>November</hi> 1645. His Catholique Maje<g ref="char:EOLhyphen"/>ſty by theſe preſents
+reconfirming the ſame as a part of this Treaty between the two Crowns. And to
+the end that it be manifeſt to all, It is conſented, That the ſaid
+Schedules (as to the whole ſubſtance thereof) be paſſed and transferred
+to the body of the preſent Articles, in the name and favour of all and
+ſingular the Subjects of the King of <hi>Great Britain,</hi> reſiding and
+trading in any Places whatſoever within his Catholique Majeſties
+Dominions.</p>
+               </div>
+               <div n="10" type="part">
+                  <pb n="11" facs="tcp:95447:6"/>
+                  <head>X.</head>
+                  <p>That the Ships, or any other Veſſels that ſhall be<g ref="char:EOLhyphen"/>long to
+the King of <hi>Great Britain</hi> or his Subjects, Navi<g ref="char:EOLhyphen"/>gating into the King
+of <hi>Spain's</hi> Dominions, or any of his Ports, ſhall not be viſited by
+the Judges of Counterband, or by any other Officer or Perſon, by his own, or
+by any other Authority; nor ſhall any Souldiers, armed men or other Officers
+or Perſons, be put on board any of the ſaid Ships or Veſſels; nor
+ſhall the Officers of the Cuſtom-houſe of the one or the other Party,
+ſearch in any Veſſels or Ships belong<g ref="char:EOLhyphen"/>ing to the People of the one or the
+other, which ſhall enter into their Regions, Dominions, or reſpective
+Ports, until their ſaid Ships or Veſſels are unladen, or until they have
+carried on ſhore all the Lading and Merchandiſe which they declare they
+reſolve to diſem<g ref="char:EOLhyphen"/>barque in the ſaid Port; nor ſhall the Captain,
+Maſter, or any other of the Company of the ſaid Ships be im<g ref="char:EOLhyphen"/>priſoned, or
+they or their Boats detained on ſhore; but in the interim, Officers of the
+Cuſtom-houſe may be put on board the ſaid Veſſels or Ships, ſo they
+ex<g ref="char:EOLhyphen"/>ceed not the number of three for each Ship, to ſee that no Goods or
+Merchandiſe be landed out of the ſaid Ships or Veſſels, without paying
+ſuch Duties as by theſe Articles either Party is obliged to pay, which
+ſaid Officers are to be without any charge to the Ship or Ships, Veſſel
+or Veſſels, their Commanders, Mariners, Company, Merchants, Factors, or
+Proprie<g ref="char:EOLhyphen"/>tors. And when it happens that the Maſter or Owner
+<pb n="12" facs="tcp:95447:7"/>of any Ship ſhall declare that the whole
+Lading of his ſaid Ship is to be diſcharged in any Port, the Entry of the
+ſaid Lading ſhall be made in the Cuſtom-houſe, af<g ref="char:EOLhyphen"/>ter the uſual
+manner; and if after the Entry made, any other Goods be found in the ſaid
+Ship or Ships, more then what are contained in the ſaid Entry, eight work<g ref="char:EOLhyphen"/>ing
+dayes ſhall be allowed them on which they may work (which ſhall be reckoned
+from the day they be<g ref="char:EOLhyphen"/>gan to unlade) to the end, that the concealed Goods may be
+entred, and the Confiſcation of them prevented: And in caſe that in the
+time limited, the Entry or Manifeſtation of them ſhall not have been made,
+then ſuch particular Goods only, which ſhall be found as aforeſaid,
+though the unlading be not finiſhed, ſhall be confiſcated, and not any
+other; nor ſhall other trouble be given, or puniſhment inflicted on the
+Mer<g ref="char:EOLhyphen"/>chant or Owner of the Ship; and when the Ships or Veſſels are reladen,
+they may have freedom to go out again.</p>
+               </div>
+               <div n="11" type="part">
+                  <head>XI.</head>
+                  <p>That the Ship or Ships appertaining to the one or the other King,
+or to their reſpective People and Subjects, that ſhall enter into any
+Ports, Lands or Dominions of the one or the other, and ſhall diſcharge any
+part of their Goods and Merchandiſes in any Port or Haven, being conſigned
+with the reſt to other Pla<g ref="char:EOLhyphen"/>ces, within or without the ſaid Dominions,
+ſhall not be obliged to regiſter or pay the Rights of any other Goods or
+Merchandiſe, then of that which they ſhall
+<pb n="13" facs="tcp:95447:7"/>unlade in the ſaid Port or Haven, nor be
+conſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ned to give Bond for the Goods they ſhall carry to other Pla<g ref="char:EOLhyphen"/>ces,
+nor any other ſecurity, if it be not in caſe of Fe<g ref="char:EOLhyphen"/>lony, Debt, Treaſon,
+or other capital Crime.</p>
+               </div>
+               <div n="12" type="part">
+                  <head>XII.</head>
+                  <p>Whereas the one moity of the Cuſtom of all For<g ref="char:EOLhyphen"/>raign Goods and
+Merchandiſe imported into <hi>England,</hi> is allowed and returned back to
+the Importer, if the ſaid Goods be exported out of the ſaid Kingdom with<g ref="char:EOLhyphen"/>in
+twelve moneths after their firſt Landing, upon Oath made that they are the
+ſame Goods which paid Cu<g ref="char:EOLhyphen"/>ſtom inwards, and that if they be not re-ſhipt
+within the ſaid twelve months, yet they may at all times be exported without
+paying any Cuſtom or Duty out<g ref="char:EOLhyphen"/>wards: It is therefore agreed, That if any the
+Sub<g ref="char:EOLhyphen"/>jects of the King of <hi>Great Britain</hi> ſhall hereafter Land any
+Goods or Merchandiſe, of what growth or nature ſoever they be, in any of
+the Ports of his Ca<g ref="char:EOLhyphen"/>tholique Majeſty, and having entred them, and paid the
+Cuſtom which by this Treaty ought to be paid, and ſhall afterwards deſire
+to tranſport them, or any part of them, to any other Place whatſoever, for
+a better Market, it ſhall and may be lawful for him or them ſo to do
+freely, without paying or being demanded any other Cuſtom or Duty at all for
+the ſame, he or they making Oath, if required thereunto, that they are the
+ſame Goods for which Cuſtom was paid at their Landing; And in caſe that
+the Subjects, People and Inhabitants of the Dominions of either part ſhall
+un<g ref="char:EOLhyphen"/>lade, or have in any City, Town or Village reſpectively,
+<pb n="14" facs="tcp:95447:8"/>any Goods, Merchandiſes, Fruits or Eſtates,
+and have paid the Cuſtoms due, according to what hath been declared, and
+after that, not being able to put them off, ſhall reſolve to remit them to
+ſome other City, Town or Village of the ſaid Dominions, they may not only
+do it without difficulty or impediment, and without paying other Rights then
+what were due at their Entry, but likewiſe the Cuſtom or Rights ſhall not
+be paid again in any other part of the ſaid Domi<g ref="char:EOLhyphen"/>nions, bringing Certificates
+from the Officers of the Cuſtom-houſe, that they were paid before in the
+due form. And the chief Farmers and Commiſſioners of the King of
+<hi>Spain's</hi> Rents in all Places, or ſome other Officer or Officers to be
+appointed for that purpoſe, ſhall at all times permit and ſuffer the
+Tranſportation of all ſuch Goods and Merchandiſes from place to place,
+and give ſufficient certificate to the Owners thereof, or their Aſſignes,
+of their having paid their Cuſtom at their firſt Landing, whereby they may
+be carried to, and Landed at any other Port or Place of the ſaid
+Juriſdiction, free from all Duties or Impediments whatſoever, as
+aforeſaid, ſaving always the Right of any third Perſon.</p>
+               </div>
+               <div n="13" type="part">
+                  <head>XIII.</head>
+                  <p>That it ſhall be lawful for the Ships belonging to the Subjects
+of the one or other King, to anchor in the Roads or Bays of either, without
+being con<g ref="char:EOLhyphen"/>ſtrained to enter into Port; and in caſe they be
+neceſ<g ref="char:EOLhyphen"/>ſitated to enter thereinto, either by diſtreſs of weather, fear
+of enemies, Pirates, or any other accident, in caſe
+<pb n="15" facs="tcp:95447:8"/>the ſaid Ships be not bound to an Enemies
+Port, and carrying thither Contraband Goods (whereof with<g ref="char:EOLhyphen"/>out ſome clear
+proof, they ſhall not be queſtioned) it ſhall be lawful for the ſaid
+Subjects, to return to Sea freely when they pleaſe, with their Ships and
+Goods, ſo as they do not break bulk, or expoſe any thing to ſale; and
+that when they caſt anchor, or enter the Ports aforeſaid, they be not
+moleſted or viſited; and it ſhall ſuffice that in this caſe they
+ſhew their Paſs<g ref="char:EOLhyphen"/>ports or Sea-papers, which being ſeen by the
+reſpe<g ref="char:EOLhyphen"/>ctive Officers of either King, the ſaid Ships ſhall re<g ref="char:EOLhyphen"/>turn freely
+to Sea without any moleſtation.</p>
+               </div>
+               <div n="14" type="part">
+                  <head>XIV.</head>
+                  <p>And if any Ship or Ships belonging to the Subjects and Merchants
+of the one or the other, entring into Bayes, or in the open Sea, ſhall be
+encountred by the Ships of the ſaid Kings, or of Privateers their Subjects;
+the ſaid Ships, to prevent all diſorders, ſhall not come within
+Canon-ſhot, but ſhall ſend their Long-Boat or Pinnace to the
+Merchant-Ship, and only two or three men on board, to whom the Maſter or
+Owner ſhall ſhew his Paſsports and Sea-Letters, according to the form
+which ſhall be inſerted at the end of this Treaty, whereby not only the
+Ships Lading, but the place to which ſhe belongs, and as well the Maſter
+and Owners name, as the name of the Ship may ap<g ref="char:EOLhyphen"/>pear; by which means the
+quality of the Ship, and her Maſter or Owner will be ſufficiently known, as
+alſo the Commodities ſhe carries, whether they be Contraband, or not; to
+the which Paſsports and Sea-Letters, in<g ref="char:EOLhyphen"/>tire
+<pb n="16" facs="tcp:95447:9"/>faith and credit ſhall be given, ſo much the
+rather, for that as well on the part of the King of <hi>England,</hi> as of the
+King of <hi>Spain,</hi> ſome Counter ſignes ſhall be given (if it ſhall
+be found neceſſary) whereby their authenticalneſs may the better appear,
+and that they may not be in any wiſe falſified.</p>
+               </div>
+               <div n="15" type="part">
+                  <head>XV.</head>
+                  <p>If any prohibited Merchandiſe or Goods ſhall be exported from
+the Kingdoms, Dominions and Terri<g ref="char:EOLhyphen"/>tories of either of the ſaid Kings, by the
+reſpective People or Subjects of the one or the other, in ſuch caſe the
+prohibited Goods ſhall be only confiſcated, and not the other Goods;
+neither ſhall the Delinquent incur any other puniſhment, except the ſaid
+Delin<g ref="char:EOLhyphen"/>quent ſhall carry out from the reſpective Kingdoms or Dominions of
+the King of <hi>Great Britain,</hi> the proper Coin, Wooll, or Fullers-earth of
+the ſaid Kingdoms, or ſhall carry out of the reſpective Kingdoms or
+Do<g ref="char:EOLhyphen"/>minions of the ſaid King of <hi>Spain,</hi> any Gold or Sil<g ref="char:EOLhyphen"/>ver, wrought
+or unwrought; in either of which caſes, the Laws of the reſpective
+Countreys are to take place.</p>
+               </div>
+               <div n="16" type="part">
+                  <head>XVI.</head>
+                  <p>That it ſhall be lawful for the People and Subjects of both
+Kings, to have acceſs to the reſpective Ports of the one and the other, and
+there remain, and depart again with the ſame freedom, not only with their
+Ships, and other Veſſels for Trade and Commerce,
+<pb n="17" facs="tcp:95447:9"/>but alſo with their other Ships fitted for
+War, armed, and diſpoſed to reſiſt and engage the Enemy, and ar<g ref="char:EOLhyphen"/>riving
+by ſtreſs of weather to repair their Ships, or furniſh themſelves with
+Proviſions; ſo that entring willingly, they be not ſo numerous, that they
+give juſt occaſion of ſuſpition, to which end they are not to ex<g ref="char:EOLhyphen"/>ceed
+the number of Eight, nor continue in their Ha<g ref="char:EOLhyphen"/>vens, nor about their Ports,
+longer time then they ſhall have juſt cauſe, for the repair of their
+Ships, to take in Proviſions or other neceſſary things, much leſs be
+the occaſion of interrupting the free Commerce, and coming in of other Ships,
+of Nations in Amity with either King; and when an unuſual number of Men of
+War, by accident ſhall come unto any Port, it ſhall not be lawful for them
+to come into the ſaid Ports or Havens, not having firſt obtained
+permiſſion of the King unto whom the ſaid Ports do belong, or the
+Go<g ref="char:EOLhyphen"/>vernours of the ſaid Ports, if they be not forced there<g ref="char:EOLhyphen"/>into by ſtreſs
+of weather or other neceſſity, to avoid the danger of the Sea, and in
+ſuch caſe they ſhall pre<g ref="char:EOLhyphen"/>ſently acquaint the Governour or chief
+Magiſtrate of the Place with the cauſe of their coming; nor ſhall they
+remain there any longer time then the ſaid Go<g ref="char:EOLhyphen"/>vernour or Magiſtrate ſhall
+think convenient, or do any act of Hoſtility in ſuch Ports, that may prove
+of prejudice to the one or the other of the ſaid Kings.</p>
+               </div>
+               <div n="17" type="part">
+                  <pb n="18" facs="tcp:95447:10"/>
+                  <head>XVII.</head>
+                  <p>That neither the ſaid King of <hi>Great Britain,</hi> nor the
+King of <hi>Spain,</hi> by any Mandate general, nor particu<g ref="char:EOLhyphen"/>lar, nor for any
+cauſe whatſoever, ſhall Embarque or detain, hinder or take for his
+reſpective ſervice, any Merchant, Maſter of a Ship, Pilot or Mariner
+their Ships, Merchandiſe, Cloaths or other Goods belong<g ref="char:EOLhyphen"/>ing unto the one or
+the other, in their Ports or Waters, if it be not that either of the ſaid
+Kings, or the Perſons to whom the Ships belong, be firſt advertiſed
+thereof, and do agree thereunto; Provided that this ſhall not be conſtrued
+to hinder or interrupt the ordinary courſe of Juſtice and Law in either
+Country.</p>
+               </div>
+               <div n="18" type="part">
+                  <head>XVIII.</head>
+                  <p>That the Merchants and Subjects of the one and the other King,
+their Factors and Servants, as alſo their Ships, Maſters and Mariners, may
+as well going as coming, upon Sea and other Waters, as in the Havens and Ports
+of the one and the other reſpectively, carry and uſe all kind of Arms,
+Defenſive and Offenſive, without being obliged to regiſter them, as
+alſo upon Land to carry and uſe them for their defence, accor<g ref="char:EOLhyphen"/>ding to the
+cuſtom of the Place.</p>
+               </div>
+               <div n="19" type="part">
+                  <head>XIX.</head>
+                  <p>That the Captains, Officers and Mariners of the Ships belonging to
+the People and Subjects of either
+<pb n="19" facs="tcp:95447:10"/>Party, may not commence an Action, nor hinder
+or bring trouble upon their own Ships, their Captains, Of<g ref="char:EOLhyphen"/>ficers or Mariners in
+the reſpective Kingdoms, Domi<g ref="char:EOLhyphen"/>nions, Lands, Countries or Places of the other,
+for their Wages or Salaries, or under any other pretence. Nor may they put
+themſelves, or be received, by what pretext or colour ſoever, into the
+Service or Protection of the King of <hi>England,</hi> or King of
+<hi>Spain,</hi> or their Arms; but if any controverſie happen be<g ref="char:EOLhyphen"/>tween
+Merchants and Maſters of Ships, or between Maſters and Mariners, the
+compoſing thereof ſhall be left to the Conſul of the Nation, but after
+ſuch man<g ref="char:EOLhyphen"/>ner, as he who ſhall not ſubmit to the Arbitrement, may appeal
+to the ordinary Juſtice of the Place where he is ſubject.</p>
+               </div>
+               <div n="20" type="part">
+                  <head>XX.</head>
+                  <p>And to the end that all Impediments be taken away, and that the
+Merchants and Adventurers of the Kingdoms of <hi>Great Britain</hi> be
+permitted to return to <hi>Brabant, Flanders,</hi> and other the Provinces of
+the Low-Countries, under the Juriſdiction of the King of <hi>Spain;</hi>
+Foraſmuch as it hath been thought convenient, that all, and any the Laws,
+Edicts, and Acts by which the Importation of Cloth, or any other Woollen
+Ma<g ref="char:EOLhyphen"/>nufacture, of what kind ſoever, dyed, or undyed, raill'd, or unmill'd,
+into <hi>Flanders,</hi> or the other Pro<g ref="char:EOLhyphen"/>vinces, hath been prohibited, be
+revoked and diſan<g ref="char:EOLhyphen"/>null'd; and that if any Right, Tribute, Impoſition,
+Charge or Money, hath been, with permiſſion, or otherwiſe, put upon
+Cloaths, or any of the aforeſaid Woollen Manufactures ſo imported (except
+the anci<g ref="char:EOLhyphen"/>ent
+<pb n="20" facs="tcp:95447:11"/>Tribute upon every piece of Cloth, and
+propor<g ref="char:EOLhyphen"/>tionably upon every other Woollen Manufacture, agreeable to the ancient
+Treaties and Agreements between the then Kings of <hi>England,</hi> and the
+Dukes of <hi>Burgundy,</hi> and Governours of the Low-Countries) the ſame
+ſhould be altogether void, and no ſuch Tri<g ref="char:EOLhyphen"/>bute or Impoſition from
+henceforth impoſed, or put upon the ſaid Clothes or Manufactures, for no
+cauſe or pretext whatſoever; And that all the <hi>Engliſh</hi>
+Mer<g ref="char:EOLhyphen"/>chants, trading in any of the ſaid Provinces, their Factors, Servants, or
+Commiſſioners, ſhould enjoy from henceforward, all the Priviledges,
+Exemptions, Immunities and Benefits, which formerly have been agreed and given
+by the aforeſaid ancient Treaties and Agreements, between the then Kings of
+<hi>England,</hi> and the Dukes of <hi>Burgundy,</hi> and Governours of the
+Low-Countries: It is therefore agreed, That Deputies ſhall be named by the
+King of <hi>Great Britain,</hi> who meeting with the Marqueſs of
+<hi>Caſtelrodrigo,</hi> or the Governour of thoſe Provinces for the time
+being, or any other Miniſters of the King of <hi>Spain,</hi> ſufficiently
+authoriſed in this behalf, ſhall friendly Treat and Conclude here<g ref="char:EOLhyphen"/>upon; and
+alſo ſuch further Priviledges, Immunities, and neceſſary Exemptions,
+ſuitable to the preſent ſtate of Affairs, ſhall be granted for the
+encouragement of the ſaid Merchants and Adventurers, and for the ſe<g ref="char:EOLhyphen"/>curity
+of their Trade and Commerce, as ſhall be agreed upon in a ſpecial Treaty,
+that ſhall be made between both the Kings, touching this Particular.</p>
+               </div>
+               <div n="21" type="part">
+                  <pb n="21" facs="tcp:95447:11"/>
+                  <head>XXI.</head>
+                  <p>The Subjects and Inhabitants of the Kingdoms and Dominions of the
+Moſt Serene Kings of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> and <hi>Spain</hi>
+reſpectively, ſhall with all ſecurity and liberty, Sail to, and Traffick,
+in all the Kingdoms, Eſtates, or Countries, which are or ſhall be in Peace,
+Amity, or Neutrality with the one or the other.</p>
+               </div>
+               <div n="22" type="part">
+                  <head>XXII.</head>
+                  <p>And they ſhall not be diſturbed or diſquieted in that
+liberty, by the Ships or Subjects of the ſaid Kings reſpectively, by
+reaſon of the hoſtilities which are or may be hereafter between either of
+the ſaid Kings, and the aforeſaid Kingdoms, Countries, and States, or any
+of them, which ſhall be in Friendſhip or Neutrality with the other.</p>
+               </div>
+               <div n="23" type="part">
+                  <head>XXIII.</head>
+                  <p>And in caſe that within the ſaid Ships reſpectively, be
+found by the aboveſaid means, any Merchandiſe here under mentioned, being
+of Contraband, and Prohibited, they ſhall be taken out and confiſcated,
+before the Admiralty, or other competent Judges; but for this reaſon, the
+Ship, and the other free and al<g ref="char:EOLhyphen"/>lowed Commodities which ſhall be found
+therein, ſhall in no wiſe be either ſeized or confiſcated.</p>
+               </div>
+               <div n="24" type="part">
+                  <pb n="22" facs="tcp:95447:12"/>
+                  <head>XXIV.</head>
+                  <p>Moreover, for better prevention of the differences which might
+ariſe touching the meaning of forbidden Merchandiſe, and of Contraband; It
+is declared and agreed, That under this name ſhall be comprehended all
+Fire-Arms, as Ordnance, Muskets, Mortar-pieces, Petards, Bumbs, Granadoes,
+Fire-crancels, Fire-balls, Musket-reſts, Bandeliers, Gunpowder, Match,
+Salt-peter, and Bullets; likewiſe under the name of forbidden Merchandiſe,
+are underſtood all other Arms, as Pikes, Swords, Pots, Helmets, Backs, and
+Breaſts, Halberds, Javelins, and ſuch like Ar<g ref="char:EOLhyphen"/>mour; Under this name is
+likewiſe forbidden the tranſportation of Souldiers, Horſes, their
+Harnaſſes, Caſes of Piſtols, Holſters, Belts, and other Furniture,
+formed and compoſed for the uſe of War.</p>
+               </div>
+               <div n="25" type="part">
+                  <head>XXV.</head>
+                  <p>Likewiſe, to prevent all manner of diſpute and con<g ref="char:EOLhyphen"/>tention, It
+is agreed, That under that name of for<g ref="char:EOLhyphen"/>bidden Merchandiſe, and of Contraband,
+ſhall not be comprehended Wheat, Rye, Barley, or other Grains, or Pulſe,
+Salt, Wine, Oyle, and generally whatſoever belongs to the ſuſtaining and
+nouriſhing of life, but they ſhall remain free, as likewiſe all other
+Merchan<g ref="char:EOLhyphen"/>diſes not comprehended in the preceding Article; and the
+tranſportation of them ſhall be free and permit<g ref="char:EOLhyphen"/>ted, although it be to the
+Towns and Places of Ene<g ref="char:EOLhyphen"/>mies,
+<pb n="23" facs="tcp:95447:12"/>unleſs ſuch Towns and Places be beſieged,
+block<g ref="char:EOLhyphen"/>ed up, or ſurrounded.</p>
+               </div>
+               <div n="26" type="part">
+                  <head>XXVI.</head>
+                  <p>It is alſo agreed, That whatſoever ſhall be found laden by
+the Subjects or Inhabitants of the Kingdoms and Dominions of either of the
+ſaid Kings of <hi>England</hi> and <hi>Spain</hi> aboard the Ships of the
+Enemies of the other, though it be not forbidden Merchandiſe, ſhall be
+con<g ref="char:EOLhyphen"/>fiſcated, with all things elſe which ſhall be found within the ſaid
+Ships without exception or reſerve.</p>
+               </div>
+               <div n="27" type="part">
+                  <head>XXVII.</head>
+                  <p>That the Conſul which hereafter ſhall reſide in any of the
+Dominions of the King of <hi>Spain,</hi> for the help and protection of the
+Subjects of the King of <hi>Great Britain,</hi> ſhall be named by the King of
+<hi>Great Britain,</hi> and he ſo named, ſhall have and exerciſe the
+ſame power and authority in the execution of his charge, as any other
+Conſul hath formerly had in the Dominions of the ſaid King of
+<hi>Spain;</hi> and in like manner the <hi>Spaniſh</hi> Conſul reſiding
+in <hi>England,</hi> ſhall enjoy as much authority as the Conſuls of any
+other Nation have hi<g ref="char:EOLhyphen"/>therto enjoyed in that Kingdom.</p>
+               </div>
+               <div n="28" type="part">
+                  <head>XXVIII.</head>
+                  <p>And that the Laws of Commerce that are obtained by Peace, may not
+remain unfruitful, as would fall out if the Subjects of the King of <hi>Great
+Britain,</hi>
+                     <pb n="24" facs="tcp:95447:13"/>when they go to, come from, or remain in the
+Domi<g ref="char:EOLhyphen"/>nions or Lordſhips of the King of <hi>Spain,</hi> by reaſon of their
+Commerce or other buſineſs, ſhould be moleſted for caſe of
+Conſcience; therefore that the Commerce be ſecure, and without danger, as
+well upon Land as at Sea, the ſaid King of <hi>Spain</hi> ſhall provide,
+that the Subjects of the ſaid King of <hi>Great Britain</hi> ſhall not be
+agrieved contrary to the Laws of Commerce, and that none of them ſhall be
+moleſted or diſturbed for their Conſcience, ſo long as they give no
+publique ſcandal or offence; and the ſaid King of <hi>Great Britain</hi>
+ſhall, likewiſe provide, for the ſame reaſons, that the Subjects of the
+King of <hi>Spain</hi> ſhall not be moleſted or diſturbed for their
+Conſcience againſt the Laws of Commerce, ſo long as they give no publique
+ſcandal or offence.</p>
+               </div>
+               <div n="29" type="part">
+                  <head>XXIX.</head>
+                  <p>That the People and Subjects reſpectively of one Kingdom, in the
+Dominions, Territories, Regions or Colonies of the other, ſhall not be
+compelled to ſell their Merchandiſe for Braſs-metal-Coin, or ex<g ref="char:EOLhyphen"/>change
+them for other Coin or things, againſt their will; or having ſold them, to
+receive the payment in other ſpecies, then what they bargained for,
+not<g ref="char:EOLhyphen"/>withſtanding any Law or other Cuſtom contrary to this Article.</p>
+               </div>
+               <div n="30" type="part">
+                  <pb n="25" facs="tcp:95447:13"/>
+                  <head>XXX.</head>
+                  <p>That the Merchants of both Nations, and their Fa<g ref="char:EOLhyphen"/>ctors, Servants
+and Families, Commiſſioners, or o<g ref="char:EOLhyphen"/>thers by them employed; as alſo
+Maſters of Ships, Pilots and Mariners, may remain freely and ſecurely in
+the ſaid Dominions, Kingdoms and Territories of ei<g ref="char:EOLhyphen"/>ther of the ſaid Kings,
+and alſo in their Ports and Ri<g ref="char:EOLhyphen"/>vers; and the People and Subjects of the one
+King, may have, and with all freedom and ſecurity enjoy, in all the Lands and
+Dominions whatſoever of the other, their proper Houſes to live in, their
+Ware-houſes and Magazins for their Goods and Merchandiſe, which they
+ſhall poſſeſs during the time for which they ſhall have taken, hired,
+and agreed for them, without any Impe<g ref="char:EOLhyphen"/>diment.</p>
+               </div>
+               <div n="31" type="part">
+                  <head>XXXI.</head>
+                  <p>The Inhabitants and Subjects of the ſaid Confede<g ref="char:EOLhyphen"/>rate Kings, in
+all the Lands and Places under the obe<g ref="char:EOLhyphen"/>dience of the one or the other, ſhall
+uſe and employ thoſe Advocates, Proctors, Scriveners, Agents and
+Solicitors, whom they think fit, the which ſhall be left to their choice, and
+conſented to by the Ordi<g ref="char:EOLhyphen"/>nary Judges, as often as there ſhall be
+occaſion; and they ſhall not be conſtrained to ſhew their Books and
+Papers of Accompt to any perſon, if it be not to give evidence for the
+avoiding Law-ſuits and Controverſies; neither ſhall they be embarqued,
+detained, or taken out of their hands, upon any pretence whatſoever. And
+<pb n="26" facs="tcp:95447:14"/>it ſhall be permitted to the People and
+Subjects of ei<g ref="char:EOLhyphen"/>ther King, in the reſpective. Places where they ſhall
+reſide, to keep their Books of Accompt, Traffick and Correſpondence in what
+Language they pleaſe, in <hi>Engliſh, Spaniſh, Dutch,</hi> or any other,
+the which ſhall not be moleſted, or ſubject to any Inquiſition. And
+whatſoever elſe hath been granted by either Party, concerning this
+particular, to any other Nation, ſhall be underſtood likewiſe to be
+granted here.</p>
+               </div>
+               <div n="32" type="part">
+                  <head>XXXII.</head>
+                  <p>That in caſe the Eſtate of any perſon or perſons ſhall
+be ſequeſtred or ſeiſed on by any Court of Ju<g ref="char:EOLhyphen"/>ſtice or Tribunal
+whatſoever, within the Kingdoms and Dominions of either Party, and any
+Eſtate or Debt happen to lie in the hands of the Delinquents belong<g ref="char:EOLhyphen"/>ing
+<hi>Bonâ ſide</hi> to the People and Subjects of the other, the ſaid
+Eſtate or Debts ſhall not be confiſcated by any of the ſaid Tribunals,
+but ſhall be reſtored to the true Owners <hi>in ſpecie,</hi> if they yet
+remain, and if not, the value of them (according to the Contract and Agreement
+which was made between the Parties) ſhall be reſtored within three moneths
+after the ſaid ſeque<g ref="char:EOLhyphen"/>ſtration.</p>
+               </div>
+               <div n="33" type="part">
+                  <head>XXXIII.</head>
+                  <p>That the Goods and Eſtates of the People and Sub<g ref="char:EOLhyphen"/>jects of the
+one King, that ſhall die in the Countries, Lands and Dominions of the other,
+ſhall be preſerved
+<pb n="27" facs="tcp:95447:14"/>for the lawful Heirs and Succeſſors of the
+deceaſed; the right of any third Perſon alwayes reſerved.</p>
+               </div>
+               <div n="34" type="part">
+                  <head>XXXIV.</head>
+                  <p>That the Goods and Eſtates of the Subjects of the King of
+<hi>Great Britain,</hi> that ſhall die without making a Will in the Dominions
+of the King of <hi>Spain,</hi> ſhall be put into Inventory with their Papers,
+Writings, and Books of Accompt, by the Conſul or other publique Miniſter of
+the King of <hi>Great Britain,</hi> and depoſited in the hands of two or
+three Merchants that ſhall be named by the ſaid Conſul, or publique
+Miniſter, to be kept for the Proprietors and Creditors; and nei<g ref="char:EOLhyphen"/>ther the
+<hi>Cruzada,</hi> nor any other Judicatory whatſoe<g ref="char:EOLhyphen"/>ver, ſhall intermeddle
+therein; which alſo in the like caſe ſhall be obſerved in
+<hi>England</hi> towards the Subjects of the King of <hi>Spain.</hi>
+                  </p>
+               </div>
+               <div n="35" type="part">
+                  <head>XXXV.</head>
+                  <p>That a decent and convenient Burial-place ſhall be granted and
+appointed to bury the bodies of the Sub<g ref="char:EOLhyphen"/>jects of the King of <hi>Great
+Britain,</hi> who ſhall die with<g ref="char:EOLhyphen"/>in the Dominions of the King of
+<hi>Spain.</hi>
+                  </p>
+               </div>
+               <div n="36" type="part">
+                  <head>XXXVI.</head>
+                  <p>If it ſhall happen hereafter that any difference fall out (which
+God forbid) between the King of <hi>Great Britain,</hi> and the King of
+<hi>Spain,</hi> whereby the mutual Commerce and good Correſpondence may be
+endan<g ref="char:EOLhyphen"/>gered,
+<pb n="28" facs="tcp:95447:15"/>the reſpective Subjects and People of each
+Party ſhall have notice thereof given them in time, that is to ſay, the
+ſpace of ſix months, to tranſport their Merchandiſe and effects,
+without giving them in that time any Moleſtation or trouble, or retaining or
+embarquing their Goods or Perſons.</p>
+               </div>
+               <div n="37" type="part">
+                  <head>XXXVII.</head>
+                  <p>All Goods and Rights concealed or embarqued, Moveables,
+Immoveables, Rents, Deeds, Debts, Credits, and the like, which have not with a
+formal notice of the cauſe, and by a legal condemnation, ac<g ref="char:EOLhyphen"/>cording to the
+Ordinary Juſtice been brought into the Royal Exchequer at the time of
+concluding this Trea<g ref="char:EOLhyphen"/>ty, ſhall remain at the full and free diſpoſal of
+the Pro<g ref="char:EOLhyphen"/>prietors, their Heirs, or of thoſe who ſhall have their Right, with
+all the Fruits, Rents and Emoluments thereof, and neither thoſe who have
+concealed the ſaid Goods, nor their Heirs ſhall be moleſted forthis
+cauſe by the Exchequers reſpectively; but the Pro<g ref="char:EOLhyphen"/>prietors, their Heirs, or
+thoſe who ſhall have their Right, ſhall have for the ſaid Goods and
+Rights their Action at Law, as for their own proper Goods and Eſtate.</p>
+               </div>
+               <div n="38" type="part">
+                  <head>XXXVIII.</head>
+                  <p>It is agreed and Concluded, That the People and Subjects of the
+King of <hi>Great Britain,</hi> and of the King of <hi>Spain,</hi> ſhall have
+and enjoy in the reſpective Lands, Seas, Ports, Havens, Roads and Territories
+of
+<pb n="29" facs="tcp:95447:15"/>the one or the other, and in all Places
+whatſoever, the ſame Priviledges, Securities, Liberties and Immuni<g ref="char:EOLhyphen"/>ties,
+whether they concern their Perſons or Trade, with all the beneficial
+clauſes and circumſtances which have been granted, or ſhall be hereafter
+granted by ei<g ref="char:EOLhyphen"/>ther of the ſaid Kings, to the Moſt Chriſtian King, the
+States General of the United Provinces, the Hans-Towns, or any other Kingdom or
+State what<g ref="char:EOLhyphen"/>ſoever, in as full, ample, and beneficial manner, as if the ſame
+were particularly mentioned and inſerted in this Treaty.</p>
+               </div>
+               <div n="39" type="part">
+                  <head>XXXIX.</head>
+                  <p>In caſe any difference or diſpute ſhall happen on either
+ſide concerning theſe Articles of Trade and Commerce, by either the
+Officers of the Admiralty or other perſon whatſoever, in the one or the
+other King<g ref="char:EOLhyphen"/>dom; The complaint being preſented by the party concerned, to
+their Majeſties, or to any of their Coun<g ref="char:EOLhyphen"/>cil, their ſaid Majeſties
+ſhall cauſe the damages forth<g ref="char:EOLhyphen"/>with to be repaired, and all things, as they
+are above agreed, to be duly executed; and in caſe, that in pro<g ref="char:EOLhyphen"/>greſs of
+time any frauds or inconveniencies be diſco<g ref="char:EOLhyphen"/>vered in the Navigation and
+Commerce between both Kingdoms, againſt which ſufficient prevention hath
+not been made in theſe Articles, other proviſions may be hereafter mutually
+agreed on, as ſhall be judged convenient, the preſent Treaty remaining
+ſtill in full force and vigour,</p>
+               </div>
+               <div n="40" type="part">
+                  <pb n="30" facs="tcp:95447:16"/>
+                  <head>XL.</head>
+                  <p>It is likewiſe accorded and concluded, That the Moſt Serene
+and Renowned Kings of <hi>Great Britain</hi> and <hi>Spain</hi> ſhall
+ſincerely, and faithfully obſerve and keep, and procure to be obſerved
+and kept, by their Sub<g ref="char:EOLhyphen"/>jects and Inhabitants reſpectively, all and ſingular
+the Capitulations in this preſent Treaty agreed and concluded: Neither
+ſhall they directly or indirectly infringe the ſame, or conſent that the
+ſame ſhall be infringed by any of their Subjects or Inhabitants. And they
+ſhall ratifie and confirm all and ſingular the Con<g ref="char:EOLhyphen"/>ventions before accorded
+by Letters Patents recipro<g ref="char:EOLhyphen"/>cally, in ſufficient, full and effectual form, and
+the ſame ſo formed and made, ſhall interchangeably deliver, or cauſe to
+be delivered faithfully and really, within four months after the date of
+theſe preſents; and they ſhall then, aſſoon as conveniently may be,
+cauſe this preſent Treaty of Peace and Amity to be publiſhed in all
+Places, and in the manner accuſtomed.</p>
+                  <closer>
+                     <dateline>Dated at <hi>Madrid,</hi> 
+                        <date>the
+13./23. day of <hi>May,</hi> in the Year of our Lord,
+1667.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="part">
+                  <pb n="31" facs="tcp:95447:16"/>
+                  <head>The Form of Letters which ought to be given by the Towns and
+Sea-Ports, to the Ships and Veſſels ſetting ſail from thence.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>O all unto whom theſe Preſents ſhall come; We the
+Gover<g ref="char:EOLhyphen"/>nours, Conſuls, or chief Magi<g ref="char:EOLhyphen"/>ſtrate or Commiſſioners of the
+Cuſtoms, of the City, Town or Province of <hi>N.</hi> do teſtifie and make
+known, That <hi>N. N.</hi> Maſter of the Ship <hi>N.</hi> hath before Us,
+un<g ref="char:EOLhyphen"/>der ſolemn Oath declared, That the Ship <hi>N.</hi> of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+Tun (more or leſs) of which he is at preſent Maſter, doth belong to the
+In<g ref="char:EOLhyphen"/>habitants of <hi>N.</hi> in the Dominions of the Moſt Serene King of
+<hi>Great Britain.</hi> And We, de<g ref="char:EOLhyphen"/>ſiring that the ſaid Maſter may be
+aſſiſted in his Voyage and Buſineſs, do intreat all per<g ref="char:EOLhyphen"/>ſons in
+general and particular, who ſhall meet him, and thoſe of all Places where
+the ſaid Maſter ſhall come with the ſaid Ship and her
+<pb n="32" facs="tcp:95447:17"/>Merchandiſe, that they would admit him
+favourably, treat him kindly, and receive the ſaid Ship into their Ports,
+Bayes, Havens, Ri<g ref="char:EOLhyphen"/>vers and Dominions, permitting her quietly to ſail, paſs,
+frequent, and Negotiate there, or in any other places, as ſhall ſeem good
+to the ſaid Maſter, paying ſtill the Toll and Cu<g ref="char:EOLhyphen"/>ſtomes which of right
+ſhall be due. Which we will acknowledge gratefully upon the like occaſions.
+In witneſs whereof, we have ſign<g ref="char:EOLhyphen"/>ed theſe Preſents, and ſealed them
+with the Seal of our Town.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>WILL. GODOLPHIN.</item>
+                           <item>
+                              <hi>Don</hi> PEDRO FERNANDEZ <hi>del Campo y
+Angulo.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:95447:17"/>
+                  <p>The Copy OF A PATENT, Containing Several Gracious Priviledges
+lately Granted by the High and Mighty Philip the Fourth, <hi>KING of
+SPAIN,</hi> &amp;c. Which are Confirmed by the foregoing Treaty, and whereof
+mention is made in the Ninth Article of the ſaid Treaty.</p>
+                  <p>
+                     <hi>Publiſhed by His Majeſties Command.</hi>
+                  </p>
+                  <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John
+Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt
+Excellent Majeſty. 1667.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:95447:18"/>
+                  <pb n="35" facs="tcp:95447:18"/>
+                  <head>The Copy of a Patent containing ſe<g ref="char:EOLhyphen"/>veral Gracious
+Priviledges lately granted by the High and Mighty <hi>PHILIP</hi> the Fourth,
+King of <hi>Spain,</hi> &amp;c.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">D</seg>ON PHILIP,</hi> By the Grace of God, King of
+<hi>Caſtile, Leon, Arragon,</hi> the two <hi>Sicilies, Jeruſalem, Portugal,
+Na<g ref="char:EOLhyphen"/>varre, Granado, Toledo, Valencia, Gali<g ref="char:EOLhyphen"/>cia, Majorca, Sivilla, Sardinia,
+Cordoua, Corſega, Murica, Jaen,</hi> the <hi>Algarves, Algeſira,
+Gibral<g ref="char:EOLhyphen"/>tar,</hi> the Iſlands of the <hi>Canaries,</hi> the <hi>Eaſt</hi>
+and <hi>Weſt In<g ref="char:EOLhyphen"/>dies,</hi> Iſlands, and firm Land of the Ocean Sea,
+Arch-Duke of <hi>Auſtria,</hi> Duke of <hi>Burgundy, Brabant,</hi> and
+<hi>Milan,</hi> Earl of <hi>Haſpurg, Flanders, Tiroll,</hi> and
+<hi>Barcelona,</hi> Lord of <hi>Biſcay</hi> and <hi>Molina,</hi> &amp;c.</p>
+                  <pb n="36" facs="tcp:95447:19"/>
+                  <p>WHereas on the behalf of you <hi>Richard An<g ref="char:EOLhyphen"/>thony,</hi> Conſul
+of the Engliſh Nation, for your ſelf, and in the Name of the Sub<g ref="char:EOLhyphen"/>jects of
+the King of <hi>Great Britain,</hi> it hath been ſhew<g ref="char:EOLhyphen"/>ed unto me, That by
+vertue of the Peace which is concluded in this and that Realm, you do reſide
+and trade in <hi>Andaluzia,</hi> and ſpecially in the Cities of
+<hi>Si<g ref="char:EOLhyphen"/>vill,</hi> St. <hi>Lucar, Cadiz,</hi> and <hi>Malaga,</hi> deſiring me
+to be pleaſed to confirm unto you the priviledges, ex<g ref="char:EOLhyphen"/>emptions and faculties
+which do belong unto you as well by the Articles of the ſaid Peace, as by the
+Confirmations thereof, and other Favours and Graces which my Lord and Father of
+glorious memory did grant unto you, and all ſuch others which have been given
+you by the Crowns of my Realms of <hi>Caſtile</hi> and <hi>Rortugal,</hi> and
+to command that they may be in, and for all things obſerved and
+accompliſhed unto you without any limitation, and for further aſſurance
+to grant them anew unto you, with the qualities, am<g ref="char:EOLhyphen"/>plitudes and declarations
+which ſhall be moſt conveni<g ref="char:EOLhyphen"/>ent for you; and to ſet Penalties upon ſuch
+as ſhall contradict, and not obſerve them unto you; and to the end it may
+be known what they are, to grant them Copies thereof, or of that which my
+favour ſhall be; And I taking the Premiſes into conſideration; and
+be<g ref="char:EOLhyphen"/>cauſe for the occaſions which I have for my Wars, you have offered to
+ſerve me with 2500. Duckets of Sil<g ref="char:EOLhyphen"/>ver, to be paid one Thouſand ready
+money, and the remaining one Thouſand five Hundred in the Moneth of
+<hi>April</hi> of this Year; whereof the Licentiate <hi>Fran<g ref="char:EOLhyphen"/>cis Moreno,</hi>
+which in reverſion of <hi>Don Anthony de
+<pb n="37" facs="tcp:95447:19"/>Campo Redondoy Rio,</hi> Knight of the Order
+of <hi>Santi<g ref="char:EOLhyphen"/>ago,</hi> one of my Council and Chamber, and of the Treaſury in
+your name, and by vertue of your power did acknowledge a Writing of Obligation
+in form before <hi>John Cortez de la Cruz,</hi> my Notary, I do hold it for
+good; And by theſe Preſents of my own moti<g ref="char:EOLhyphen"/>on, and certain knowledge, and
+Royal and abſolute Power, which I in this behalf will make uſe of, and do
+uſe as an abſolute King and Lord, not acknowledging any Superior in matters
+Temporal, do confirm and approve the Priviledges, Exemptions, and Faculties
+which do belong unto you as well by the Articles of the ſaid Peace, as by the
+Confirmation thereof; and alſo the other favours and graces which my Lord and
+Father did grant unto you, and others whatſoever, which have been given by my
+Crowns of <hi>Caſtile</hi> and <hi>Portugal</hi> unto the ſaid Subjects, in
+and for all things as therein, and every thing and part thereof is ſpecified,
+contained, and declared, to the end they may be firm, ſtable, and of value,
+and be obſerved, kept and ac<g ref="char:EOLhyphen"/>compliſhed unto you: For my deliberate intent
+and will is, that all thoſe of the ſaid Nation ſhall enjoy thereof
+without any limitation, in ſuch manner, that, during the time the ſaid
+Engliſhmen ſhall reſide in <hi>Andaluzia,</hi> neither you nor they may
+be charged with any Office or publick Charge, nor Council, Tutor<g ref="char:EOLhyphen"/>ſhip,
+Curatorſhip, Receivers or Treaſurers, although they be of Cuſtomers and
+Millions, or other Services which concern my Royal Treaſury; and much leſs
+they may demand of you any Loans or donations, or take from you any Rights, or
+your Rents, Horſes, or Slaves: And to do you the more favour or grace
+ac<g ref="char:EOLhyphen"/>cording
+<pb n="38" facs="tcp:95447:20"/>to that which is agreed by the ſaid Peace,
+I do will and promiſe that you ſhall and may deal and trade freely, and
+ſell your Merchandiſe and Fruits, and buy thoſe of my Realms, and carry
+them forth, ob<g ref="char:EOLhyphen"/>ſerving that which is ordained and commanded by the Laws and
+Statutes which make mention thereof, and paying to my Royal Treaſury the
+Duties or Cuſtoms which ought to be paid, prohibiting, as I do prohibit and
+command, not to take from you by force any Merchandiſes, Wheat, or Barley,
+although it be for the making ready or furniſhing my Armies, Fleets, or
+Gallions, nor for Purveyors or Stewards; and the Priviledges are to be
+concerning the Wheat and Bar<g ref="char:EOLhyphen"/>ley according to the Tun; and concerning the other
+things and Merchandiſes, as you ſhall conclude and agree: but they may not
+take them out of your Poſ<g ref="char:EOLhyphen"/>ſeſſion until they have paid for them,
+unleſs for the ſame there be leave given, that they do not moleſt and
+trouble you. And foraſmuch as many of you do treat to bring into the Ports of
+<hi>Andaluſia,</hi> the City of <hi>Sivil,</hi> and other places, great
+quantity of <hi>New-found<g ref="char:EOLhyphen"/>land-Fiſh,</hi> and other ſorts of dry and
+ſalted Fiſh, be<g ref="char:EOLhyphen"/>cauſe they are Victuals which are very neceſſary; and
+that you have been and are put to great Charges, and are much troubled, I do
+will and command to be kept the Ordinance of the City of <hi>Sivil,</hi>
+whereby it is or<g ref="char:EOLhyphen"/>dained, that thoſe which come in with dry or ſalted
+Fiſh, there ſhall not be any Price or Rate ſet upon them, but they
+ſhall be permitted to ſell at ſuch a Price as they ſhall think good;
+and it ſhall not be ne<g ref="char:EOLhyphen"/>ceſſary to manifeſt them any more then unto my
+Offi<g ref="char:EOLhyphen"/>cers which receive my Royal Rents: and if the Ships
+<pb n="39" facs="tcp:95447:20"/>wherein the ſaid Fiſh is brought be great
+Ships, that they cannot go up the River, and that the ſame be put into
+Barques or Lighters, the Judge of the Admi<g ref="char:EOLhyphen"/>ralty nor any other perſon may not
+put any Waiters or Keepers into the Barques or Lighters at the charge of the
+Owners of them.</p>
+                  <p>And I do alſo command, That if the ſaid Fiſh ſhall
+appear to be rotten, and that it cannot be ſpent, that it be burnt, or thrown
+into the Sea; and that for this cauſe there ſhall not be any Cauſe or
+Action commen<g ref="char:EOLhyphen"/>ced againſt the Owners thereof, or perſons which ſhall
+ſell it, nor they ſhall not be impriſoned, nor informed againſt: And
+foraſmuch as the Adminiſters of the Cuſtoms, and others of divers duties
+which are recei<g ref="char:EOLhyphen"/>ved for the Fruits and Merchandiſes, do uſe when any body
+doth inform, to have the perſon Impriſoned which ſheweth himſelf to be
+party, whereby happeneth to men of Trade great diſcredit, charges, and
+vexati<g ref="char:EOLhyphen"/>ons; My Will is, and I do command, that in the ſaid Information there
+ſhall be only proceeded againſt the Merchandiſes, and not againſt the
+perſons; but they ſhall be permitted (as I do permit them) to make, and
+they ſhall make their defences in the ſaid Vexation. And foraſmuch
+alſo, as according to an Article of the ſaid Peace, which maketh mention of
+Matters in Re<g ref="char:EOLhyphen"/>ligion, notwithſtanding that in ſome Suits they ſhould
+declare whether they be Roman Catholiques or not, excuſing themſelves to
+give faith to others which they take as parties or as witneſſes;</p>
+                  <p>I do alſo command, That concerning this matter there be not
+done, nor there ſhall not be done, any thing with thoſe which are born in
+the ſaid Realm,
+<pb n="40" facs="tcp:95447:21"/>but only that the ſaid Condition be kept
+and accom<g ref="char:EOLhyphen"/>pliſhed, and that no ſuch queſtions be put unto them gi<g ref="char:EOLhyphen"/>ving
+unto the Oaths which they ſhall take in Judgement Court, and without, the
+ſame faith and credit which ſhould be given in caſe they were
+<hi>Spaniards;</hi> and herein you ſhall not receive any trouble or
+moleſtation; nor there ſhall not be any grievance done unto you: And
+whereas for the juſtification of ſome cauſes, the Judges and Juſtices
+do pretend that the Merchants of the ſaid Nation ſhould exhibite Books of
+their con<g ref="char:EOLhyphen"/>tractions or dealings; I do will and command, that the Books of the
+Merchants of the ſaid Nation ſhall not be taken out of their hands for any
+cauſe whatſoever, but they ſhall keep and ſhew them in their houſes,
+to take out the parcel which ſhall be appointed, and others ſhall not be
+demanded of them, nor there ſhall not be any other Papers taken from them,
+upon pe<g ref="char:EOLhyphen"/>nalty that he which ſhall do here againſt, ſhall be pu<g ref="char:EOLhyphen"/>niſhed
+according to Law.</p>
+                  <p>And foraſmuch as the Merchants do diſpatch the Merchandiſe
+from the Cuſtom-houſe of the ſaid City of <hi>Sivil</hi> of all Duties,
+and becauſe there are many which do make up a ſheet, which is Subſcribed
+and Signed by all the Officers, and remaineth in the hand of the
+<hi>Alcayde</hi> of the Cuſtom-houſe; for that by vertue thereof, the
+Merchandiſes are permitted to go forth, which are in Fardels, Packs, Trunks
+and Caſes; and afterwards when they have taken them forth, and put them into
+their Houſes and Warehouſes, the chief Keeper of the Cuſtom-houſe, and
+the Officers of the half <hi>per Cent.</hi> do viſit the Houſe and Goods,
+troubling and moleſting them, demanding of them
+<pb n="41" facs="tcp:95447:21"/>the diſpatches, it ſeeming unto them,
+that they may derain them, becauſe they left the diſpatch in the hands of
+the ſaid <hi>Alcayde</hi> of the Cuſtom-houſe; I do prohibit and command,
+that the houſes of the ſaid Merchants ſhall not be viſited, nor the
+diſpatches ſhall not nor may not be demanded of them, in regard they have
+them not in their hands; and this is to be underſtood, and is underſtood of
+houſes which are within the Walls of the ſaid City; and to the end it may
+be known to you, which are of the Engliſh Nati<g ref="char:EOLhyphen"/>on, there is to be delivered
+unto you Copies of the ſaid Priviledges and Exemptions which do concern you,
+and which were granted unto you, as well by the Ar<g ref="char:EOLhyphen"/>ticles of Peace, as by any
+other manner. And for exe<g ref="char:EOLhyphen"/>cution and accompliſhment of all the Premiſſes,
+I do command thoſe of my Council, and thoſe of my Councils, Aſſemblies
+and Tribunals of my Court, and the Preſidents and Judges of my Audiences,
+<hi>Alcaydes,</hi> and Officers of my Houſe and Court, and Chanceries, and
+the Regent and Judge of the Court of Degrees of the City of <hi>Sivil,</hi> and
+chief <hi>Alcaldes</hi> of the Precincts thereof, and all the
+<hi>Cor<g ref="char:EOLhyphen"/>rigidors,</hi> Aſſiſtants, and Governours, chief Juſtices, and
+Ordinaries, as well in the ſaid Cities of <hi>Sivil, Ca<g ref="char:EOLhyphen"/>diz, Malaga,</hi> and
+St. <hi>Lucar de Barameda,</hi> as of all other Cities, Towns and Places, of
+theſe my Realms and Dominions, and all other Judges and Juſtices
+whatſo<g ref="char:EOLhyphen"/>ever, of what quality or condition ſoever they may be, whom
+principally or incidentally may concern in any manner the accompliſhment or
+performance of that which is contained in this Patent, that preſently ſo
+ſoon as they ſhall be by vertue thereof required, or the Copy thereof
+Signed by a Notary publick, that there
+<pb n="42" facs="tcp:95447:22"/>be thereunto given as much faith, as unto the
+Origi<g ref="char:EOLhyphen"/>nal; and that every one in the place where it ſhall con<g ref="char:EOLhyphen"/>cern him do
+obſerve, and accompliſh, and cauſe the ſame to be obſerved,
+accompliſhed, and executed, in and for all things as therein is contained,
+and they ſhall not in all nor in part put upon you any impedi<g ref="char:EOLhyphen"/>ments, nor any
+other difficulties or doubts, nor do any thing againſt the tenor and form
+thereof, nor conſent or give way that it be interpreted, limited or
+ſuſpended in all or in part, or that to the contrary be given any
+<hi>Sedidas,</hi> proviſions, or other diſpatches; but for ob<g ref="char:EOLhyphen"/>ſervation
+thereof, in the place which ſhall concern eve<g ref="char:EOLhyphen"/>ry one, they ſhall give
+order, and ordain to deliver unto you thoſe which ſhall be neceſſary:
+And for more firm<g ref="char:EOLhyphen"/>neſs and validity of the favour and grace which by this my
+Patent I do grant you, and that at all times this favour may be certain and
+ſure unto you, you are to keep or have a Judge Conſervator in
+<hi>Andaluſia,</hi> eſpe<g ref="char:EOLhyphen"/>cially in the ſaid Cities of <hi>Sivil, Malaga,
+Cadiz,</hi> and St. <hi>Lucar de Barameda,</hi> unto whom I am to give
+ſuffi<g ref="char:EOLhyphen"/>cient Commiſſion for keeping and accompliſhing the ſaid
+Priviledges, Liberties and Exemptions, who ſhall conſtrain and compell all
+and whatſoever perſons, of what ſort or quality they may be that ſhall
+concern the ſaid Nation, as well thoſe which ſhall be Defendants
+accuſed, as thoſe which ſhall be Plaintiffs, although the perſons which
+ſhall accuſe them, and which ſhall be accuſed by them, have private
+Judges, as well by con<g ref="char:EOLhyphen"/>ſent as agreement which they may have made by
+pre<g ref="char:EOLhyphen"/>heminence or priviledge which they hold, to the end the ſaid Judge
+Conſervator may onely take know<g ref="char:EOLhyphen"/>ledge privately of the ſaid Courts, and not
+any other
+<pb n="43" facs="tcp:95447:22"/>Judge or Tribunall, although it be by way of
+exceſs or notorious Juſtice, or in any other matter or form, which Judge
+Conſervator is now Doctor <hi>Don Franciſco de Ver<g ref="char:EOLhyphen"/>gara,</hi> Judge of my
+Court <hi>de les Grados,</hi> of the City of <hi>Sevill,</hi> the time that he
+ſhall aſſiſt therein, and in his ab<g ref="char:EOLhyphen"/>ſence the Licentiate <hi>Don
+Franciſco de Modrano,</hi> Judge of the ſame Court, who for the ſuits
+which ſhall be com<g ref="char:EOLhyphen"/>menced in the ſaid Cities of <hi>Cadiz, Malaga,</hi>
+&amp; St. <hi>Lucar,</hi> is to Subdelegate his Conſervatorſhip, in the
+perſon which by the ſaid Nation ſhall be propounded or na<g ref="char:EOLhyphen"/>med, that he
+may effect the ſame to the concluſion, and they ſhall be referred unto
+him to be determined: and of that which he ſhall determine, the Appeale is to
+be made to my Council, and not to any other Court.</p>
+                  <p>And foraſmuch as my will is, that every one in his time
+ſhall have primative Commiſſion, and Juriſdicti<g ref="char:EOLhyphen"/>on to protect and
+defend you concerning all the con<g ref="char:EOLhyphen"/>tents of this my Patent, that all the ſame
+may be kept and accompliſhed in the form which I do offer the ſame unto
+you, I have found good to charge, as by theſe preſents I do charge them
+with the protection and de<g ref="char:EOLhyphen"/>fence hereof: &amp; I do command them to ſee or
+peruſe this my Patent, and the qualities, conditions, preheminen<g ref="char:EOLhyphen"/>cies, and
+amplifications therein contained, and to cauſe all the ſame to be kept,
+accompliſhed and executed, in ſuch form and manner, and according as
+therein is contained and declared, without conſenting or giving way, that in
+all, or in part there be made unto you any doubt or difficulty, and before the
+ſaid <hi>Don Franciſco de Vergara,</hi> or in his abſence before the
+ſaid <hi>Francis de Medrano</hi> (and not before any other Judge) privately
+<pb n="44" facs="tcp:95447:23"/>in the firſt inſtance, are to paſs, and
+be followed all the cauſes and ſuits, which concerning the premiſes, or
+any thing or part thereof ſhall be moved and cauſed, and the execution and
+puniſhment of thoſe which ſhall not be obedient; For my will is, that the
+knowledge and determination of all the contents in this my Patent, is in all
+things privately to concern, and ſhall concern them; proceeding in all things
+againſt thoſe which ſhall be culpable, and executing for the ſame the
+pe<g ref="char:EOLhyphen"/>nalties which are mentioned by law, reſerving as I do reſerve, the
+appellations which ſhall be put in upon their acts and ſentences, to my
+Council, and not any other Court, without that any of other my Councils,
+Tribunals, Courts, Chanceries, or any other Judges or Juſtices of my Realms
+or Dominions, of whatſoever qua<g ref="char:EOLhyphen"/>lity they be, may meddle, or ſhall meddle
+therewith, or in the uſe or exerciſe of the Juriſdiction privative in the
+ſaid firſt inſtance, which by this my Patent I do grant unto them, by way
+of exceſs, appellation, or any other recourſe or manner; the which and
+every of them, I do inhibit and hold for inhibited the knowledge thereof, and
+do declare them for incompetent Judges thereof: for which and every thing, and
+part thereof, I do give them the moſt ſufficient power, and moſt am<g ref="char:EOLhyphen"/>ple
+Commiſſion, which according to Law is required and neceſſary, with the
+incidences and dependencies, annexities; and after them the ſaid
+<hi>Engliſh</hi> Nation of the ſaid City of <hi>Sivil,</hi> may name in the
+ſaid Commiſ<g ref="char:EOLhyphen"/>ſion one of the Judges of the ſaid Audience, which the
+ſaid Nation ſhall chuſe: And I do command the Preſi<g ref="char:EOLhyphen"/>dent, and thoſe
+of my Council of the Chamber, that preſenting before them their nomination
+(the caſe
+<pb n="45" facs="tcp:95447:23"/>happening) to make void the ſaid
+Commiſſion, by promotion or vacation of the ſaid <hi>Don Franciſco de
+Vergara,</hi> and <hi>Don Francis de Medrano</hi> or to diſpatch it, in any
+other manner, by Ordinary to him that ſhall be therein nominated, in the form
+according, and as by this my Patent is declared. And that it may be the better
+accompliſhed, I do from this time give them power and authority, that they
+may Subdelegate, and they ſhall Subdelegate this Commiſſion, for the
+buſineſs and Suits which ſhall be offered in the ſaid Cities of
+<hi>Cadiz, Malaga,</hi> and St. <hi>Lucar de Berameda,</hi> in the perſon
+which by you ſhall be propounded unto them, that they may ſubſtantiate
+them for a concluſion, and remit the Suits and Cauſes unto them to be
+determined, in ſuch manner as they ſhall find good and convenient, for the
+ſecurity of that which is contained in this my Pa<g ref="char:EOLhyphen"/>tent. And I do charge the
+moſt excellent Prince, <hi>Don Balthaxar Charles,</hi> my moſt dear and
+moſt beloved Son, and do command the Infants, Prelates, Dukes,
+Marqueſſes, Earls, Richmen, Commanders, and under-Commanders, Governours of
+Caſtles, ſtrong Houſes, and Plains, and thoſe of my Council,
+Preſidents, and Judges of my Courts, Alcaydes, and Officers of my Houſe,
+Court and Chanceries, and all the Corigidors, Aſſiſtants, Governors,
+Alcaldes, Mayors, and Ordina<g ref="char:EOLhyphen"/>ries, and whatſoever Judges and Juſtices of
+theſe my Realms and Dominions, to obſerve and accompliſh, and cauſe to
+be obſerved and accompliſhed, this my Pa<g ref="char:EOLhyphen"/>tent, and the favour or Grace
+which thereby I do grant you, and againſt the tenor and form thereof, not to
+do or paſs, now, nor at any time, in any manner perpetual<g ref="char:EOLhyphen"/>ly for evermore.
+Nor to conſent or give way to be li<g ref="char:EOLhyphen"/>mited
+<pb n="46" facs="tcp:95447:24"/>or ſuſpended unto you, all or part
+thereof, not<g ref="char:EOLhyphen"/>withſtanding whatſoever Laws or Statutes of theſe my Realms
+and Dominions, Ordinances, Stile, Uſe, or Cuſtom of the ſaid Cities of
+<hi>Sivill, Cadiz, Malaga,</hi> or St. <hi>Lucar,</hi> or any other thing which
+is or may be to the contrary, the which for this time, forſomuch as
+con<g ref="char:EOLhyphen"/>cerneth this matter, holding the ſame here for inſerted and
+incorporated, as it were word for word writ<g ref="char:EOLhyphen"/>ten, I do diſpence, abrogate,
+derogate, cancel, an<g ref="char:EOLhyphen"/>nihilate, and make void and of none effect, remaining in
+full force and effect for all other things henceforward. And for this my Patent
+<hi>Jeronimo de Canencia,</hi> Auditor of Accompts, in my Chief Office of
+Accompts, and my Secretary of the Mediaenate ſhall take a Copy, at whoſe
+Charge is the accompt and reaſon of this right. And I do declare, that for
+this favour you have paid the duty of the Mediaenate, which amounteth to thirty
+and five thouſand one hundred fifty and five Maravediz in Silver: which
+ſumme you are to pay from fifteen to fifteen years perpetually, and in caſe
+they do accom<g ref="char:EOLhyphen"/>pliſh or end, you may not make uſe of this favour, un<g ref="char:EOLhyphen"/>till
+ſuch time as it ſhall firſt appear that you have ſatis<g ref="char:EOLhyphen"/>fied this Duty.
+And you are alſo to pay the Judge Conſervator, which ſhall be named, his
+Salary, or to help to bear his charges, which he ſhall enjoy for his labour
+or pains in the ſaid buſineſs, before you ſhall en<g ref="char:EOLhyphen"/>joy thereof, which
+is to appear by Certificate of the Office of this Duty.</p>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <dateline>Given in
+<hi>Saragoſa,</hi> 
+                              <date>the nineteenth day of <hi>March, Anno</hi> 1645.</date>
+                           </dateline>
+                        </opener>
+                        <pb n="47" facs="tcp:95447:24"/>
+                        <p>I <hi>The King, I</hi> Anthony Carnero, <hi>Secretary of the
+King our Lord, did cauſe it to be written, by his Commandment.
+Regiſtred,</hi> Michael de Lariaga, <hi>Lieutenant of the Lord High
+Chancellor.</hi> Michael de La<g ref="char:EOLhyphen"/>riaga. <hi>The Copy was taken,</hi> Jeronimo de
+Canencia; Don John Chumazero y Carillo, <hi>Doctor.</hi> Don An<g ref="char:EOLhyphen"/>thony de Campo
+Redondo y Rio, <hi>Licenciate.</hi>
+                        </p>
+                        <closer>
+                           <signed>JOSEPH GONSALES.</signed>
+                        </closer>
+                        <postscript>
+                           <p>THis Copy doth agree with that out of which it was taken,
+which for this effect was exhibi<g ref="char:EOLhyphen"/>ted unto me by <hi>William Bland,</hi>
+dwelling in the City of <hi>Sivill,</hi> who took it away again with him the
+11. of <hi>April, Anno</hi> 1645.</p>
+                           <closer>
+                              <signed>
+                                 <hi>Joſeph de Pineda,</hi> Notary Publick of
+the City of <hi>Sivill</hi> for the
+King.</signed>
+                           </closer>
+                        </postscript>
+                     </body>
+                  </floatingText>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
